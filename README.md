@@ -72,7 +72,7 @@ Your finished project must include all of the following requirements
 
 This challenge takes a look at closures as well as scope.
 
-- [ ] Find this challenge in the index.js file. Read the instructions carefully!
+- [*] Find this challenge in the index.js file. Read the instructions carefully!
 
 #### Task B: Objects and Arrays
 
